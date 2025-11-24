@@ -1,3 +1,3 @@
 # githubitund
 GitHubi õppimine
-Lisatud kirjeldus õppimisest
+Ma olen üleõpilane
